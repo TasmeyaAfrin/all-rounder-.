@@ -1,0 +1,233 @@
+/* All common CSS Start  */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+
+
+
+/* All common CSS End  */
+
+/* All Common css Start  */
+/* Header Part Start  */
+.navbar {
+    background: #07110D;
+    padding: 20px 0;
+}
+
+.nav-link {
+    color: #9DB3A8;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    margin: 0 20px;
+}
+
+/* All Common css End  */
+.nav-link:hover {
+    color: #9DB3A8;
+}
+
+.getBtn {
+    padding: 12px 22px;
+    background: #1FB57F;
+    border-radius: 999px;
+    color: #07110D;
+}
+
+/* Header Part End  */
+
+/* Banner Part Start  */
+#bannerPart {
+    padding: 60px;
+    padding-bottom: 100px;
+    background: #07110D;
+}
+
+.cardShakib {
+    width: 346px;
+    padding: 18px 22px;
+    background: #07110D;
+    border-radius: 18px;
+}
+
+.cardShakib h3 {
+    color: #f4efe6;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+
+}
+
+.cardShakib h4 {
+    color: #9DB3A8;
+    font-family: "Inter", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.bannerRight {
+    position: relative;
+}
+
+.cardShakib {
+    position: absolute;
+    bottom: 40px;
+    right: 190px;
+}
+
+/* Banner Part Start */
+#bannerPart {
+    padding: 80px 0;
+    background-color: #081210; /* Figma ডিজাইনের ডার্ক ব্যাকগ্রাউন্ড */
+}
+
+.bannerText span {
+    font-size: 13px;
+    font-weight: 600;
+    color: #1FB57F;
+    font-family: "Inter", sans-serif;
+    letter-spacing: 1.5px;
+    display: block;
+    margin-bottom: 12px;
+}
+
+.bannerText h1 {
+    font-size: 115px; 
+    font-weight: 400;
+    font-family: "Bebas Neue", sans-serif;
+    color: #F4EFE6;
+    line-height: 0.92;
+    margin-bottom: 24px;
+}
+
+.bannerText p {
+    font-size: 15px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    color: #90B3A8;
+    line-height: 1.6;
+    max-width: 460px;
+    margin-bottom: 32px;
+}
+
+.bannerText a {
+    display: inline-block;
+    padding: 12px 24px;
+    border-radius: 50px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: "Inter", sans-serif;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+
+.bannerText a:first-of-type {
+    background-color: #D9383A;
+    color: #FFFFFF;
+    margin-right: 12px;
+}
+
+.bannerText a:first-of-type:hover {
+    background-color: #b82b2d;
+}
+
+
+.bannerText a:last-of-type {
+    background-color: transparent;
+    color: #F4EFE6;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.bannerText a:last-of-type:hover {
+    border-color: #1FB57F;
+    color: #1FB57F;
+}
+
+.bannerRight {
+    position: relative;
+}
+
+.bannerRight img {
+    border-radius: 16px;
+}
+
+.cardShakib {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background: rgba(10, 20, 18, 0.85);
+    backdrop-filter: blur(8px);
+    padding: 14px 20px;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.cardShakib h3 {
+    color: #F4EFE6;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    margin-bottom: 2px;
+}
+
+.cardShakib h4 {
+    color: #90B3A8;
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    margin: 0;
+}
+
+
+/* Banner Part End */
+
+
+
+
+/* All Background color  Start  */
+.card-container{
+    display: flex;
+gap: 24px;
+flex-wrap: wrap;
+}
+
+/* All Background color  End  */
+
+.stat-box{
+    margin: 0 0 ;
+}
+/* Banner Part Start  */
+
+/* Banner Part End */
+
+/* Banner Part Start  */
+/* Banner Part End */
+
+/* Banner Part Start  */
+/* Banner Part End */
+
+/* Banner Part Start  */
+/* Banner Part End */
+
+/* Banner Part Start  */
+/* Banner Part End */
+
+/* Banner Part Start  */
+/* Banner Part End */
+
+/* Banner Part Start  */
+/* Banner Part End */
